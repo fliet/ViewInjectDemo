@@ -1,0 +1,1 @@
+include ':app', ':lib_inject_view_annotation', ':lib_view_inject_processor'
